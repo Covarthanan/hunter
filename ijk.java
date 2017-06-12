@@ -20,9 +20,9 @@ public class ijk
          {
            if((a[i]+a[j])==a[k])
            {
-             x=a[i];
-             y=a[j];
-             z=a[k];
+             x=i;
+             y=j;
+             z=k;
              break;
            }
          }
